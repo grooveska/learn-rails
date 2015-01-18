@@ -7,9 +7,13 @@ Things you may want to cover:
 
 * Ruby version
 
+ruby 2.2.0
+
 * System dependencies
 
 * Configuration
+
+Rails 4.20
 
 * Database creation
 
@@ -26,3 +30,7 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+
+==
+Running through my first ruby on rails tutorial. Enjoying using the RailsApp project.
+
