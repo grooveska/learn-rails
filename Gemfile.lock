@@ -60,9 +60,9 @@ GEM
     extlib (0.9.16)
     faraday (0.9.1)
       multipart-post (>= 1.2, < 3)
-    foundation-rails (5.5.0.0)
+    foundation-rails (5.4.3.1)
       railties (>= 3.1.0)
-      sass (>= 3.2.0, < 3.4)
+      sass (>= 3.2.0)
     gibbon (1.1.4)
       httparty
       multi_json (>= 1.3.4)
@@ -97,7 +97,7 @@ GEM
       railties (>= 4.2.0)
       thor (>= 0.14, < 2.0)
     json (1.8.2)
-    jwt (1.2.0)
+    jwt (1.2.1)
     launchy (2.4.3)
       addressable (~> 2.3)
     loofah (2.0.1)
@@ -110,7 +110,7 @@ GEM
     multi_json (1.10.1)
     multi_xml (0.5.5)
     multipart-post (2.0.0)
-    nokogiri (1.6.5)
+    nokogiri (1.6.6.2)
       mini_portile (~> 0.6.0)
     oauth (0.4.7)
     oauth2 (1.0.0)
@@ -172,7 +172,7 @@ GEM
       multi_json (~> 1.0)
       rack (~> 1.0)
       tilt (~> 1.1, != 1.3.0)
-    sprockets-rails (2.2.2)
+    sprockets-rails (2.2.4)
       actionpack (>= 3.0)
       activesupport (>= 3.0)
       sprockets (>= 2.8, < 4.0)
@@ -194,7 +194,7 @@ PLATFORMS
 DEPENDENCIES
   better_errors
   coffee-rails (~> 4.0.1)
-  foundation-rails
+  foundation-rails (= 5.4.3.1)
   gibbon
   google_drive
   high_voltage
